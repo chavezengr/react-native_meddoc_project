@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901075986447",
+    "project_id": "wehealth-e2b6a",
+    "storage_bucket": "wehealth-e2b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901075986447:android:12bf54e9a2b405fc641b7a",
+        "android_client_info": {
+          "package_name": "com.jm.wehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901075986447-0rch00m52a2qavc2fv326n5ep3pcd8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9SRl6XFSy0JPD9lR_dDKeLYMsOrxB4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901075986447-0rch00m52a2qavc2fv326n5ep3pcd8im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
